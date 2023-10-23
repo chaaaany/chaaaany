@@ -1,19 +1,6 @@
+<!--
 ### Who am I? 👋
 
-<!--
-**chaaaany/chaaaany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ### 📚 MAIN STACKS
@@ -37,4 +24,4 @@ Here are some ideas to get you started:
 <li> 2022.01 [네이버커넥트] AI BASIC 코칭 스터디 1기, 리더부스터
 <li> 🏅2021.08 [환경부] 환경창업대전 '환경 통합 플랫폼, ZECO'
 <li> 2021.01 [AI hub] 인공지능 학습용 데이터 활용 공모전 '감성 AI, 독거노인 공공서비스의 사각지대에 빛을 비추다'
-<li> 🏅2020.12 [화웨이 코리아] 2020 ICT 챌린지 
+<li> 🏅2020.12 [화웨이 코리아] 2020 ICT 챌린지 -->
